@@ -36,3 +36,6 @@ A streamlined, single-agent chatbot built with Langgraph, and Groq, designed for
 * **Langgraph:** For providing the framework for building conversational agents.
 * **Groq**: For the powerful API that enhances chatbot performance.
 
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software for both commercial and non-commercial purposes, as long as you include the original license. See the [LICENSE](LICENSE) file for full details.
