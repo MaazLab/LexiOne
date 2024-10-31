@@ -19,3 +19,20 @@ A streamlined, single-agent chatbot built with Langgraph, and Groq, designed for
    ```bash
    git clone https://github.com/your-username/VerbaBot.git
    cd VerbaBot
+
+2. Create a ```.env``` file in the root directory of the project and add your ```GROQ_API_KEY```:
+    ```bash
+    GROQ_API_KEY=your_api_key_here
+
+## Usage
+1. Open the Jupyter notebook in your preferred environment.
+2. Run the cells to initialize the chatbot and start conversations.
+
+## Future Plans
+1. Develop a user-friendly interface with Streamlit or Gradio.
+2. Incorporate image features for enhanced interaction.
+
+## Acknowledgements
+* **Langgraph:** For providing the framework for building conversational agents.
+* **Groq**: For the powerful API that enhances chatbot performance.
+
