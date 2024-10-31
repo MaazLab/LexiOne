@@ -1,0 +1,5 @@
+ipython==8.12.3
+langchain_groq==0.2.0
+langgraph==0.2.41
+python-dotenv==1.0.1
+typing_extensions==4.12.2
