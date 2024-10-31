@@ -1,6 +1,6 @@
-# VerbaBot (or LexiOne)
+# LexiOne
 
-A streamlined, single-agent chatbot built with Langgraph, Langsmith, and Groq, designed for straightforward conversational AI applications. This project leverages the 'Gemma2-9b-It' model to facilitate basic, responsive dialogue.
+A streamlined, single-agent chatbot built with Langgraph, and Groq, designed for straightforward conversational AI applications. This project leverages the 'Gemma2-9b-It' model to facilitate basic, responsive dialogue.
 
 ## Features
 
