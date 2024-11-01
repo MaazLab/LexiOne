@@ -17,7 +17,7 @@ A streamlined, single-agent chatbot built with Langgraph, and Groq, designed for
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/VerbaBot.git
+   git clone https://github.com/MaazLab/LexiOne.git
    cd VerbaBot
 
 2. Create a ```.env``` file in the root directory of the project and add your ```GROQ_API_KEY```:
